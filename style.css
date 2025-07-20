@@ -1,12 +1,12 @@
 body {
-  background-color: #fff1f0; /* Soft blush background */
+  background-color: #fff1f0; 
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .card {
   border-radius: 15px;
-  background-color: #ffe5e5; /* Light rose card */
-  box-shadow: 0 0 10px rgba(255, 0, 0, 0.3); /* Gentle red glow */
+  background-color: #ffe5e5; 
+  box-shadow: 0 0 10px rgba(255, 0, 0, 0.3); 
 }
 
 input.form-control {
@@ -24,7 +24,7 @@ button {
 }
 
 .navbar {
-  background-color: #cc0000 !important; /* Deep red navbar */
+  background-color: #cc0000 !important; 
 }
 
 .navbar-brand {
